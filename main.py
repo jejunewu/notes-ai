@@ -1,2 +1,3 @@
-s = input("input some words:")
+import os
+s = os.getenv('hello', 'world')
 print(s)
