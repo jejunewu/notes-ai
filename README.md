@@ -2,10 +2,10 @@
 
 一个用于记录ai笔记的仓库。
 
-## cv
+## [cv](cv.md)
 
-## nlp
+## [nlp](nlp.md)
 
 ## [audio](audio.md)
 
-## multimodal
+## [multimodal](multimodal.md)
