@@ -17,3 +17,6 @@
 ## ASR
 - [阿里达摩院端到端FunASR@alibaba-damo-academy/FunASR](https://github.com/alibaba-damo-academy/FunASR)
 - [wenet端到端ASR@wenet-e2e/wenet](https://github.com/wenet-e2e/wenet)
+
+## vad
+- [vad检测@pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
