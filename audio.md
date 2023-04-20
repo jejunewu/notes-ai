@@ -5,9 +5,9 @@
 ---
 
 ## 音频处理
-- [混合声音分离@facebookresearch/demucs](https://github.com/facebookresearch/demucs)
+- [伴奏、乐器、人声分离@facebookresearch/demucs](https://github.com/facebookresearch/demucs)
 - [伴奏与人声分离工具GUI版@Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)
-- [多个说话人声音分离(speaker diarization)@pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
+
 
 ## TTS
 - [VITS-对抗学习的条件变分自编码器@jaywalnut310/vits](https://github.com/jaywalnut310/vits)
@@ -19,5 +19,6 @@
 - [阿里达摩院端到端FunASR@alibaba-damo-academy/FunASR](https://github.com/alibaba-damo-academy/FunASR)
 - [wenet端到端ASR@wenet-e2e/wenet](https://github.com/wenet-e2e/wenet)
 
-## vad
 
+## vad
+- [多个说话人声音分离(speaker diarization)@pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
