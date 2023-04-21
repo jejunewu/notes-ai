@@ -7,7 +7,7 @@
 ## 音频处理
 - [伴奏、乐器、人声分离@facebookresearch/demucs](https://github.com/facebookresearch/demucs)
 - [伴奏与人声分离工具GUI版@Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)
-
+- [HuBert预训练模型-音频特征提取器@facebookresearch/av_hubert](https://github.com/facebookresearch/av_hubert)
 
 ## TTS
 - [VITS-对抗学习的条件变分自编码器@jaywalnut310/vits](https://github.com/jaywalnut310/vits)
