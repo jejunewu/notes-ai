@@ -7,7 +7,8 @@
 ## [cv](cv.md)
 
 ## [nlp](nlp.md)
-  - (Text Classification)[]
+- (Text Classification)[https://github.com/jejune5/ai-notes/blob/main/nlp.md#text-classification]
+
 ## [audio](audio.md)
 
 ## [multimodal](multimodal.md)
