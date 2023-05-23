@@ -3,6 +3,7 @@
 一个用于记录AI笔记的仓库。
 
 ---
+## 各任务目录
 
 ## [cv](cv.md)
 
@@ -16,5 +17,5 @@
 - [Voice Activity Detection - 语音活性检测](https://github.com/jejune5/ai-notes/blob/main/audio.md#vad)
 
 ## [multimodal](multimodal.md)
-- [ChatGPT]()
+- [ChatGPT](https://github.com/jejune5/ai-notes/blob/main/multimodal.md#chatgpt)
 - [Bing Chat](https://github.com/jejune5/ai-notes/blob/main/multimodal.md#bing-chat)
