@@ -16,3 +16,5 @@
 - [Voice Activity Detection - 语音活性检测](https://github.com/jejune5/ai-notes/blob/main/audio.md#vad)
 
 ## [multimodal](multimodal.md)
+- [ChatGPT]()
+- [Bing Chat](https://github.com/jejune5/ai-notes/blob/main/multimodal.md#bing-chat)
