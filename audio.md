@@ -18,7 +18,7 @@
 
 
 ## ASR
-- [MMS: Scaling Speech Technology to 1000+ languages@facebookresearch/fairseq](https://github.com/facebookresearch/fairseq/blob/main/examples/mms/README.md)
+- [MMS: Scaling Speech Technology to 1000+ languages多语种ASR@facebookresearch/fairseq](https://github.com/facebookresearch/fairseq/blob/main/examples/mms/README.md)
 - [Whisper@openai/whisper](https://github.com/openai/whisper)
 - [阿里达摩院端到端FunASR@alibaba-damo-academy/FunASR](https://github.com/alibaba-damo-academy/FunASR)
 - [wenet端到端ASR@wenet-e2e/wenet](https://github.com/wenet-e2e/wenet)
