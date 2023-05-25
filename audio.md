@@ -13,7 +13,7 @@
 - [VITS-对抗学习的条件变分自编码器@jaywalnut310/vits](https://github.com/jaywalnut310/vits)
 - [VITS-论文代码解读视频@B站/deep_thoughts](https://www.bilibili.com/video/BV1wU4y1q7po/?spm_id_from=333.999.0.0)
 - [VITS-快速微调框架@Plachtaa/VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning)
-- [声音克隆变声器，可实现AI孙燕姿，目前4.0@svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
+- [声音克隆变声器，可实现AI孙燕姿@svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
 - [一个基于VITS的简单易用的语音转换（变声器）框架@RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
 
 
