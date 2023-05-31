@@ -10,6 +10,7 @@
 - [HuBert预训练模型-音频特征提取器@facebookresearch/av_hubert](https://github.com/facebookresearch/av_hubert)
 
 ## TTS
+- [一个TTS工具整合框架@coqui-ai/TTS](https://github.com/coqui-ai/TTS)
 - [VITS-对抗学习的条件变分自编码器@jaywalnut310/vits](https://github.com/jaywalnut310/vits)
 - [VITS-论文代码解读视频@B站/deep_thoughts](https://www.bilibili.com/video/BV1wU4y1q7po/?spm_id_from=333.999.0.0)
 - [VITS-快速微调框架@Plachtaa/VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning)
