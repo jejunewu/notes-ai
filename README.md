@@ -18,6 +18,7 @@
 - [[chatgpt]-镜像网站@LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt)
 - [[GPT-Tools]-将多个GPT可以接入聊天软件等，py实现@zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything)
 - [[BingChat]-Bing Chat for All Browsers，可以让chrome等浏览器使用的BingChat的插件@anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers)
+- [[PEFT]-PLMs参数精调方法@huggingface/peft](https://github.com/huggingface/peft)
 
 ### 2.2 文本分类-Text Classification
 - [文本分类工具，LR，Xgboost，TextCNN，FastText，TextRNN，BERT等分类模型实现，开箱即用。@shibing624/pytextclassifier](https://github.com/shibing624/pytextclassifier)
