@@ -3,12 +3,12 @@
 一个用于记录AI笔记的仓库。
 
 ---
-## 各任务目录
 
-## [cv](cv.md)
+## 1. cv
 
 ## [nlp](nlp.md)
-- [Text Classification - 文本分类](https://github.com/jejune5/ai-notes/blob/main/nlp.md#text-classification)
+- [文本分类-Text Classification](https://github.com/jejune5/ai-notes/blob/main/nlp.md#text-classification)
+- 
 
 ## [audio](audio.md)
 - [音频处理](https://github.com/jejune5/ai-notes/blob/main/audio.md#%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86)
