@@ -29,6 +29,7 @@
 ### 2.3 nlp竞赛
 - [nlp任务竞赛汇总@TingFree/NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal)
 
+---
 
 ## 3. audio
 ### 3.1 音频处理
@@ -54,6 +55,8 @@
 
 ### 3.4 vad
 - [多个说话人声音分离(speaker diarization)@pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
+
+---
 
 ## 4. 其他
 - 
