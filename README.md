@@ -19,7 +19,7 @@
 
 ### 2.2 文本分类-Text Classification
 - [文本分类工具，LR，Xgboost，TextCNN，FastText，TextRNN，BERT等分类模型实现，开箱即用。@shibing624/pytextclassifier](https://github.com/shibing624/pytextclassifier)
-- [经典FastText@facebookresearch/fastText](https://github.com/facebookresearch/fastText.git)
+- [[FastText]@facebookresearch/fastText](https://github.com/facebookresearch/fastText.git)
 
 ### 2.3 nlp竞赛
 - [nlp任务竞赛汇总@TingFree/NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal)
@@ -33,18 +33,18 @@
 
 ### 3.2 TTS
 - [一个TTS工具整合框架@coqui-ai/TTS](https://github.com/coqui-ai/TTS)
-- [VITS-对抗学习的条件变分自编码器@jaywalnut310/vits](https://github.com/jaywalnut310/vits)
-- [VITS-论文代码解读视频@B站/deep_thoughts](https://www.bilibili.com/video/BV1wU4y1q7po/?spm_id_from=333.999.0.0)
-- [VITS-快速微调框架@Plachtaa/VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning)
-- [声音克隆变声器，可实现AI孙燕姿@svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
+- [[VITS]-对抗学习的条件变分自编码器@jaywalnut310/vits](https://github.com/jaywalnut310/vits)
+- [[VITS]-论文代码解读视频@B站/deep_thoughts](https://www.bilibili.com/video/BV1wU4y1q7po/?spm_id_from=333.999.0.0)
+- [[VITS]-快速微调框架@Plachtaa/VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning)
+- [[so-vits-svc]声音克隆变声器，可实现AI孙燕姿@svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
 - [一个基于VITS的简单易用的语音转换（变声器）框架@RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
 
 
 ### 3.3 ASR
-- [MMS: Scaling Speech Technology to 1000+ languages多语种ASR@facebookresearch/fairseq](https://github.com/facebookresearch/fairseq/blob/main/examples/mms/README.md)
-- [Whisper@openai/whisper](https://github.com/openai/whisper)
-- [阿里达摩院端到端FunASR@alibaba-damo-academy/FunASR](https://github.com/alibaba-damo-academy/FunASR)
-- [wenet端到端ASR@wenet-e2e/wenet](https://github.com/wenet-e2e/wenet)
+- [[MMS]-Scaling Speech Technology to 1000+ languages多语种ASR@facebookresearch/fairseq](https://github.com/facebookresearch/fairseq/blob/main/examples/mms/README.md)
+- [[Whisper]-@openai/whisper](https://github.com/openai/whisper)
+- [[FunASR]-阿里达摩院端到端ASR@alibaba-damo-academy/FunASR](https://github.com/alibaba-damo-academy/FunASR)
+- [[wenet]-端到端ASR@wenet-e2e/wenet](https://github.com/wenet-e2e/wenet)
 
 
 ### 3.4 vad
