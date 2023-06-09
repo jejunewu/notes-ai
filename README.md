@@ -10,7 +10,7 @@
 
 ## 2. nlp
 
-### 2.1 GPT系列
+### 2.1 LLMs系列
 
 - [[AutoGPT]-实现GPT的自动化操作，需要key@Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [[LLaMA]-开源的LLaMA模型@facebookresearch/llama](https://github.com/facebookresearch/llama)
