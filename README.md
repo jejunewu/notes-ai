@@ -15,6 +15,7 @@
 - [[AutoGPT]-实现GPT的自动化操作，需要key@Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [[LLaMA]-开源的LLaMA模型@facebookresearch/llama](https://github.com/facebookresearch/llama)
 - [[LLaMA中文]-@ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
+- [[OpenLLaMA中文]-@FittenTech/OpenLLaMA-Chinese](https://github.com/FittenTech/OpenLLaMA-Chinese)
 - [[LLaMA.cpp]-LLaMA的C++推理代码@ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
 - [[PEFT]-PLMs参数精调方法@huggingface/peft](https://github.com/huggingface/peft)
 - [[chatgpt]-镜像网站@LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt)
