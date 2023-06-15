@@ -19,6 +19,7 @@
 - [[LLaMA.cpp]-LLaMA的C++推理代码@ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
 - [[PEFT]-PLMs参数精调方法@huggingface/peft](https://github.com/huggingface/peft)
 - [[chatgpt]-镜像网站@LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt)
+- [[gpt4free]-免费的GPT-4逆向接口xtekky/gpt4free](https://github.com/xtekky/gpt4free)
 - [[GPT-Tools]-将多个GPT可以接入聊天软件等，py实现@zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything)
 - [[BingChat]-Bing Chat for All Browsers，可以让chrome等浏览器使用的BingChat的插件@anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers)
 
