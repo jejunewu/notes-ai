@@ -52,7 +52,7 @@
 - [[MMS]-Scaling Speech Technology to 1000+ languages多语种ASR@facebookresearch/fairseq](https://github.com/facebookresearch/fairseq/blob/main/examples/mms/README.md)
 - [[Whisper]-@openai/whisper](https://github.com/openai/whisper)
 - [[FunASR]-阿里达摩院端到端ASR@alibaba-damo-academy/FunASR](https://github.com/alibaba-damo-academy/FunASR)
-- [[wenet]-端到端ASR@wenet-e2e/wenet](https://github.com/wenet-e2e/wenet)
+- [[WeNet]-端到端ASR@wenet-e2e/wenet](https://github.com/wenet-e2e/wenet)
 
 
 ### 3.4 vad
