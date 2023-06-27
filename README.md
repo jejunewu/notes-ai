@@ -56,10 +56,10 @@
 
 
 ### 3.4 vad
-- [[pyannote]多个说话人声音分离(speaker diarization)@pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
+- [[pyannote]-多个说话人声音分离(speaker diarization)@pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
 
 ---
 
 ## 4. dev-tools
-- 
+- [[torch2trt]-将torch模型转为TensorRT模型的工具，由TensorRT Python API构建@NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt)
 - 
