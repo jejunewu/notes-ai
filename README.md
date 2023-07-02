@@ -64,4 +64,5 @@
 ## 4. dev-tools
 - [[torch2trt]-将torch模型转为TensorRT模型的工具，由TensorRT Python API构建@NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt)
 - [[netron]-查看onnx模型结构@lutzroeder/netron](https://github.com/lutzroeder/netron)
+- [[onnx-simplifier]-onnx模型结构简化@daquexian/onnx-simplifier](https://github.com/daquexian/onnx-simplifier)
 - 
