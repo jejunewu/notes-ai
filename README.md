@@ -11,7 +11,7 @@
 ## 2. nlp
 
 ### 2.1 LLMs系列
-
+- [[LLMSurvey]-大语言模型综述](https://github.com/RUCAIBox/LLMSurvey)
 - [[AutoGPT]-实现GPT的自动化操作，需要key@Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [[LLaMA]-开源的LLaMA模型@facebookresearch/llama](https://github.com/facebookresearch/llama)
 - [[LLaMA中文]-@ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
