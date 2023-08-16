@@ -12,7 +12,6 @@
 - [NLP资源综合导航@fighting41love/funNLP](https://github.com/fighting41love/funNLP)
 ### 2.1 LLMs系列
 - [[数据]-医疗训练数据@onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM)
-- [[评测]-评测资源列表@onejune2018/Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)
 - [[模型-LLaMA]-开源的LLaMA模型@facebookresearch/llama](https://github.com/facebookresearch/llama)
 - [[模型-LLaMA中文]-@ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
 - [[模型-OpenLLaMA中文]-@FittenTech/OpenLLaMA-Chinese](https://github.com/FittenTech/OpenLLaMA-Chinese)
@@ -22,6 +21,7 @@
 - [[训练-LLaMA-Efficient-Tuning]-llama微调训练框架@hiyouga/LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning)
 - [[推理-LLaMA.cpp]-LLaMA的C++推理代码@ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
 - [[推理-fastllm]-基于cpp的推理框架，可实现移动端@ztxz16/fastllm](https://github.com/ztxz16/fastllm)
+- [[评测]-评测资源列表@onejune2018/Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)
 - [[LLMSurvey]-大语言模型综述](https://github.com/RUCAIBox/LLMSurvey)
 - [[AutoGPT]-实现GPT的自动化操作，需要key@Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [[chatgpt]-镜像网站@LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt)
