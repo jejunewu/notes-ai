@@ -14,6 +14,7 @@
 - [[数据]-医疗训练数据@onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM)
 - [[模型-LLaMA]-开源的LLaMA模型@facebookresearch/llama](https://github.com/facebookresearch/llama)
 - [[模型-LLaMA中文]-@ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
+- [[模型-LLaMA2中文]-@ymcui/Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2)
 - [[模型-OpenLLaMA中文]-@FittenTech/OpenLLaMA-Chinese](https://github.com/FittenTech/OpenLLaMA-Chinese)
 - [[训练-PEFT]-PLMs参数精调方法@huggingface/peft](https://github.com/huggingface/peft)
 - [[训练-MedicalGPT]-医疗GPT训练框架@shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT)
