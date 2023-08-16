@@ -9,7 +9,7 @@
 ---
 
 ## 2. nlp
-
+- [NLP资源综合导航@fighting41love/funNLP](https://github.com/fighting41love/funNLP)
 ### 2.1 LLMs系列
 - [[LLMSurvey]-大语言模型综述](https://github.com/RUCAIBox/LLMSurvey)
 - [[AutoGPT]-实现GPT的自动化操作，需要key@Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
