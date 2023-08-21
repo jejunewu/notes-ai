@@ -23,6 +23,7 @@
 - [[训练-LLaMA-Efficient-Tuning]-llama微调训练框架@hiyouga/LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning)
 - [[推理-LLaMA.cpp]-LLaMA的C++推理代码@ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
 - [[推理-fastllm]-基于cpp的推理框架，可实现移动端@ztxz16/fastllm](https://github.com/ztxz16/fastllm)
+- [[结构-langchain × llm]-langchain和chagglm@chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
 - [[评测]-评测资源列表@onejune2018/Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)
 - [[LLMSurvey]-大语言模型综述](https://github.com/RUCAIBox/LLMSurvey)
 - [[AutoGPT]-实现GPT的自动化操作，需要key@Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
