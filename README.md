@@ -60,7 +60,8 @@
 - [[RVC]-一个基于VITS的简单易用的语音转换（变声器）框架@RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
 
 ### 3.4 vad
-- [[pyannote]-多个说话人声音分离(speaker diarization)@pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
+- [[pyannote]-声音活动检测(speaker diarization)@pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
+- [[说话人分离-contentvec]-说话人分离@auspicious3000/contentvec](https://github.com/auspicious3000/contentvec/)
 
 ### 3.5 音频处理
 
