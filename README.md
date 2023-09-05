@@ -55,7 +55,7 @@
 - [[VITS]-论文代码解读视频@B站/deep_thoughts](https://www.bilibili.com/video/BV1wU4y1q7po/?spm_id_from=333.999.0.0)
 - [[VITS-fast-fine-tuning]-快速微调框架@Plachtaa/VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning)
 
-### 3.3 声音克隆
+### 3.3 SVC
 - [[so-vits-svc]-声音克隆变声器，可实现AI孙燕姿@svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
 - [[RVC]-一个基于VITS的简单易用的语音转换（变声器）框架@RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
 
