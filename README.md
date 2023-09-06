@@ -46,6 +46,7 @@
 ### 3.1 ASR
 - [[MMS]-Scaling Speech Technology to 1000+ languages多语种ASR@facebookresearch/fairseq](https://github.com/facebookresearch/fairseq/blob/main/examples/mms/README.md)
 - [[Whisper]-@openai/whisper](https://github.com/openai/whisper)
+- [[whisper.cpp]whisper cpp实现-@ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)
 - [[FunASR]-阿里达摩院端到端ASR@alibaba-damo-academy/FunASR](https://github.com/alibaba-damo-academy/FunASR)
 - [[WeNet]-端到端ASR@wenet-e2e/wenet](https://github.com/wenet-e2e/wenet)
 
