@@ -12,6 +12,7 @@
 ### 2.1 nlp综合
 - [NLP资源综合导航@fighting41love/funNLP](https://github.com/fighting41love/funNLP)
 - [NLP面试笔记@km1994/NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
+- [【关于 NLP】 那些你不知道的事@km1994/nlp_paper_study](https://github.com/km1994/nlp_paper_study)
 
 ### 2.2 LLMs系列
 - [[数据]-医疗训练数据@onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM)
