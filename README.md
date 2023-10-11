@@ -9,8 +9,11 @@
 ---
 
 ## 2. nlp
+### 2.1 综合
 - [NLP资源综合导航@fighting41love/funNLP](https://github.com/fighting41love/funNLP)
-### 2.1 LLMs系列
+- [NLP面试笔记@km1994/NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
+
+### 2.2 LLMs系列
 - [[数据]-医疗训练数据@onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM)
 - [[模型]-已发布的中文LLMs列表@HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 - [[模型-LLaMA]-开源的LLaMA模型@facebookresearch/llama](https://github.com/facebookresearch/llama)
@@ -33,11 +36,11 @@
 - [[BingChat]-Bing Chat for All Browsers，可以让chrome等浏览器使用的BingChat的插件@anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers)
 
 
-### 2.2 文本分类-Text Classification
+### 2.3 文本分类-Text Classification
 - [文本分类工具，LR，Xgboost，TextCNN，FastText，TextRNN，BERT等分类模型实现，开箱即用。@shibing624/pytextclassifier](https://github.com/shibing624/pytextclassifier)
 - [[FastText]@facebookresearch/fastText](https://github.com/facebookresearch/fastText.git)
 
-### 2.3 nlp竞赛
+### 2.4 nlp竞赛
 - [nlp任务竞赛汇总@TingFree/NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal)
 
 ---
