@@ -9,7 +9,7 @@
 ---
 
 ## 2. nlp
-### 2.1 综合
+### 2.1 nlp综合
 - [NLP资源综合导航@fighting41love/funNLP](https://github.com/fighting41love/funNLP)
 - [NLP面试笔记@km1994/NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
 
