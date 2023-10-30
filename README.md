@@ -22,6 +22,7 @@
 - [[模型-LLaMA中文]-@ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
 - [[模型-LLaMA2中文]-@ymcui/Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2)
 - [[模型-OpenLLaMA中文]-@FittenTech/OpenLLaMA-Chinese](https://github.com/FittenTech/OpenLLaMA-Chinese)
+- [[模型-ChatGLM3]-@THUDM/ChatGLM3](https://github.com/THUDM/ChatGLM3)
 - [[训练-PEFT]-PLMs参数精调方法@huggingface/peft](https://github.com/huggingface/peft)
 - [[训练-MedicalGPT]-医疗GPT训练框架@shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT)
 - [[训练-Firefly]-流萤LLMs训练代码@yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly)
