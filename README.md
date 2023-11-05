@@ -45,7 +45,7 @@
 - [[FastText]@facebookresearch/fastText](https://github.com/facebookresearch/fastText.git)
 
 
-### 2.4 信息抽取-
+### 2.4 信息抽取-Information Extraction
 - [UIE-torch@HUSTAI/uie_pytorch](https://github.com/HUSTAI/uie_pytorch)
 
 ### 2.5 nlp竞赛
