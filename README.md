@@ -47,6 +47,7 @@
 
 ### 2.4 信息抽取-Information Extraction
 - [UIE-torch@HUSTAI/uie_pytorch](https://github.com/HUSTAI/uie_pytorch)
+- [[文本标注工具-doccano]@doccano/doccano](https://github.com/doccano/doccano)
 
 ### 2.5 nlp竞赛
 - [nlp任务竞赛汇总@TingFree/NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal)
