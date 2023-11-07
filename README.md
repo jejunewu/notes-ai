@@ -47,7 +47,7 @@
 
 ### 2.4 信息抽取-Information Extraction
 - [UIE-torch@HUSTAI/uie_pytorch](https://github.com/HUSTAI/uie_pytorch)
-- [[文本标注工具-doccano]@doccano/doccano](https://github.com/doccano/doccano)
+
 
 ### 2.5 nlp竞赛
 - [nlp任务竞赛汇总@TingFree/NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal)
@@ -90,4 +90,5 @@
 - [[部署-torch2trt]-将torch模型转为TensorRT模型的工具，由TensorRT Python API构建@NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt)
 - [[部署-netron]-查看onnx模型结构@lutzroeder/netron](https://github.com/lutzroeder/netron)
 - [[部署-onnx-simplifier]-onnx模型结构简化@daquexian/onnx-simplifier](https://github.com/daquexian/onnx-simplifier)
+- [[文本、图像、音频标注工具-doccano]@doccano/doccano](https://github.com/doccano/doccano)
 - 
