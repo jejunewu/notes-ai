@@ -30,6 +30,7 @@
 - [[推理-LLaMA.cpp]-LLaMA的C++推理代码@ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
 - [[推理-fastllm]-基于cpp的推理框架，可实现移动端@ztxz16/fastllm](https://github.com/ztxz16/fastllm)
 - [[推理-vllm]-vllm推理@vllm-project/vllm](https://github.com/vllm-project/vllm)
+- [[推理-chatglm.cpp]@li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp)
 - [[知识库问答-langchain × llm]-langchain和chagglm@chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
 - [[评测]-评测资源列表@onejune2018/Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)
 - [[LLMSurvey]-大语言模型综述](https://github.com/RUCAIBox/LLMSurvey)
