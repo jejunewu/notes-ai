@@ -17,6 +17,7 @@
 
 ### 2.2 LLMs系列
 - [[数据]-医疗训练数据@onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM)
+- [【模型】Yi-6B/34B 可以到200k @01-ai/Yi](https://github.com/01-ai/Yi)
 - [[模型]-已发布的中文LLMs列表@HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 - [[模型-LLaMA]-开源的LLaMA模型@facebookresearch/llama](https://github.com/facebookresearch/llama)
 - [[模型-LLaMA中文]-@ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
