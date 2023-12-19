@@ -53,6 +53,8 @@
 ### 2.4 信息抽取-Information Extraction
 - [UIE-torch@HUSTAI/uie_pytorch](https://github.com/HUSTAI/uie_pytorch)
 
+### 2.5 文本摘要-Text Summary
+- [【TextRank4ZH】中文文本摘要@letiantian/TextRank4ZH](https://github.com/letiantian/TextRank4ZH)
 
 ### 2.5 nlp竞赛
 - [nlp任务竞赛汇总@TingFree/NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal)
