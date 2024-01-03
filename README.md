@@ -56,6 +56,8 @@
 ### 2.5 文本摘要-Text Summary
 - [【TextRank4ZH】中文文本摘要@letiantian/TextRank4ZH](https://github.com/letiantian/TextRank4ZH)
 
+### 2.6 多轮对话
+- [【基于大模型的多轮对话、填槽、反问】@answerlink/IntelliQ](https://github.com/answerlink/IntelliQ)
 ### 2.5 nlp竞赛
 - [nlp任务竞赛汇总@TingFree/NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal)
 
