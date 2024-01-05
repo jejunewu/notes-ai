@@ -58,7 +58,8 @@
 - [【TextRank4ZH】中文文本摘要@letiantian/TextRank4ZH](https://github.com/letiantian/TextRank4ZH)
 
 ### 2.6 多轮对话
-- [【基于大模型的多轮对话、填槽、反问】@answerlink/IntelliQ](https://github.com/answerlink/IntelliQ)
+- [【对话系统】-基于大模型的多轮对话、填槽、反问@answerlink/IntelliQ](https://github.com/answerlink/IntelliQ)
+- [【对话系统】-基于Bert的意图-槽位识别@Linear95/bert-intent-slot-detector](https://github.com/Linear95/bert-intent-slot-detector)
 
 
 ---
