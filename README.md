@@ -60,7 +60,7 @@
 ### 2.6 对话系统
 - [【对话系统】-基于大模型的多轮对话、填槽、反问@answerlink/IntelliQ](https://github.com/answerlink/IntelliQ)
 - [【对话系统】-基于Bert的意图-槽位识别@Linear95/bert-intent-slot-detector](https://github.com/Linear95/bert-intent-slot-detector)
-- [【对话系统】-业界一些对话系统资料(老)](https://github.com/lizhe2004/chatbot-list)
+- [【对话系统】-业界一些对话系统资料(2022)](https://github.com/lizhe2004/chatbot-list)
 
 
 ---
