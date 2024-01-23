@@ -40,6 +40,7 @@
 - [【策略】RAG-langchain × llm-langchain和chagglm@chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
 - [【策略】-图数据+LLM+API_call构造Agent@jwzhanggy/Graph_Toolformer](https://github.com/jwzhanggy/Graph_Toolformer)
 - [【策略】-AutoGPT-实现GPT的自动化操作@Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+- [【工具】-【ChatALL】-大模型多合一@sunner/ChatALL](https://github.com/sunner/ChatALL)
 - [[chatgpt]-镜像网站@LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt)
 - [[gpt4free]-免费的GPT-4逆向接口@xtekky/gpt4free](https://github.com/xtekky/gpt4free)
 - [[GPT-Tools]-将多个GPT可以接入聊天软件等，py实现@zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything)
