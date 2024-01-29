@@ -37,6 +37,7 @@
 - [【推理】-chatglm.cpp@li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp)
 - [【评测】-评测资源列表@onejune2018/Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)
 - [【评测】-LLMSurvey-大语言模型综述](https://github.com/RUCAIBox/LLMSurvey)
+- [【评测】-【opencompass】-大模型评测榜单](https://github.com/open-compass/opencompass)
 - [【策略】RAG-langchain × llm-langchain和chagglm@chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
 - [【策略】-图数据+LLM+API_call构造Agent@jwzhanggy/Graph_Toolformer](https://github.com/jwzhanggy/Graph_Toolformer)
 - [【策略】-AutoGPT-实现GPT的自动化操作@Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
