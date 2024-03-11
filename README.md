@@ -46,6 +46,7 @@
 - [【工具】-【ChatALL】-大模型多合一@sunner/ChatALL](https://github.com/sunner/ChatALL)
 - [【Prompt】-【LangGPT】- 角色扮演提示词模板@EmbraceAGI/LangGPT](https://github.com/EmbraceAGI/LangGPT)
 - [【Prompt】-【GPTs】- 提示词模板@linexjlin/GPTs](https://github.com/linexjlin/GPTs)
+- [【Agent】-【XAgent】-面壁智能XAgent@OpenBMB/XAgent](https://github.com/OpenBMB/XAgent)
 - [[chatgpt]-镜像网站@LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt)
 - [[gpt4free]-免费的GPT-4逆向接口@xtekky/gpt4free](https://github.com/xtekky/gpt4free)
 - [[GPT-Tools]-将多个GPT可以接入聊天软件等，py实现@zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything)
