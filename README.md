@@ -38,6 +38,7 @@
 - [【推理】-【vllm】-vllm推理@vllm-project/vllm](https://github.com/vllm-project/vllm)
 - [【推理】-【lmdeploy】-介绍说比vLLM快@InternLM/lmdeploy](https://github.com/InternLM/lmdeploy)
 - [【推理】-【FastChat】-支持vllm加速、openaiapi和webui@lm-sys/FastChat](https://github.com/lm-sys/FastChat)
+- [【推理】-【flash-attention】flash-attention推理加速@Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention)
 - [【评测】-评测资源列表@onejune2018/Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)
 - [【评测】-LLMSurvey-大语言模型综述](https://github.com/RUCAIBox/LLMSurvey)
 - [【评测】-【opencompass】-大模型评测榜单](https://github.com/open-compass/opencompass)
