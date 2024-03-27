@@ -50,6 +50,7 @@
 - [【Prompt】-【GPTs】- 提示词模板@linexjlin/GPTs](https://github.com/linexjlin/GPTs)
 - [【Agent】-【XAgent】-面壁智能XAgent@OpenBMB/XAgent](https://github.com/OpenBMB/XAgent)
 - [【Agent】-【modelscope-agent】-阿里agent@modelscope/modelscope-agent](https://github.com/modelscope/modelscope-agent)
+- [【Json】-【super-json-mode】大模型抽取信息的json格式@varunshenoy/super-json-mode](https://github.com/varunshenoy/super-json-mode)
 - [[chatgpt]-镜像网站@LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt)
 - [[gpt4free]-免费的GPT-4逆向接口@xtekky/gpt4free](https://github.com/xtekky/gpt4free)
 - [[GPT-Tools]-将多个GPT可以接入聊天软件等，py实现@zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything)
