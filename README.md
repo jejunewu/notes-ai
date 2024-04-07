@@ -50,6 +50,7 @@
 - [【Agent】-AutoGPT-实现GPT的自动化操作@Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [【Agent】-【XAgent】-面壁智能XAgent@OpenBMB/XAgent](https://github.com/OpenBMB/XAgent)
 - [【Agent】-【modelscope-agent】-阿里agent@modelscope/modelscope-agent](https://github.com/modelscope/modelscope-agent)
+- [【Agent】-【Qwen-agent】-阿里agent@QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
 - [【工具】-【Json】-【super-json-mode】大模型抽取信息的json格式@varunshenoy/super-json-mode](https://github.com/varunshenoy/super-json-mode)
 - [【工具】-【ChatALL】-大模型多合一@sunner/ChatALL](https://github.com/sunner/ChatALL)
 - [【工具】-【chatgpt】-镜像网站@LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt)
