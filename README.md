@@ -12,6 +12,7 @@
 ### 2.1 nlp综合
 - [【导航】NLP资源综合导航@fighting41love/funNLP](https://github.com/fighting41love/funNLP)
 - [【面试】NLP面试笔记（仅问题）@km1994/NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
+- [【面试】DeepLearing-Interview-Awesome-2024@315386775/DeepLearing-Interview-Awesome-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024)
 - [【面试】那些你不知道的事@km1994/nlp_paper_study](https://github.com/km1994/nlp_paper_study)
 - [【面试】LLM面试含答案-问题基于km1994/NLP-Interview-Notes@jackaduma/awesome_LLMs_interview_notes](https://github.com/jackaduma/awesome_LLMs_interview_notes)
 - [【竞赛】NLP任务竞赛汇总@TingFree/NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal)
