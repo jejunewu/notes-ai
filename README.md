@@ -56,6 +56,7 @@
 - [【工具】-【ChatALL】-大模型多合一@sunner/ChatALL](https://github.com/sunner/ChatALL)
 - [【工具】-【chatgpt】-镜像网站@LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt)
 - [【工具】-【gpt4free】-免费的GPT-4逆向接口@xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+- [【工具】-【openai格式API】- openai api@xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)
 - [【应用】-【GPT-Tools】-将多个GPT可以接入聊天软件等，py实现@zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything)
 - [~~【工具】-[BingChat]-Bing Chat for All Browsers，可以让chrome等浏览器使用的BingChat的插件@anaclumos/bing-chat-for-all-browsers~~](https://github.com/anaclumos/bing-chat-for-all-browsers)
 
