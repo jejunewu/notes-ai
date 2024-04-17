@@ -60,19 +60,21 @@
 - [【应用】-【GPT-Tools】-将多个GPT可以接入聊天软件等，py实现@zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything)
 - [~~【工具】-[BingChat]-Bing Chat for All Browsers，可以让chrome等浏览器使用的BingChat的插件@anaclumos/bing-chat-for-all-browsers~~](https://github.com/anaclumos/bing-chat-for-all-browsers)
 
+### 2.3 向量模型-Embedding
+- [【工具】-【open-text-embeddings】-仿openai API格式的embeddingAPI@limcheekin/open-text-embeddings](https://github.com/limcheekin/open-text-embeddings)
 
-### 2.3 文本分类-Text Classification
+### 2.4 文本分类-Text Classification
 - [文本分类工具，LR，Xgboost，TextCNN，FastText，TextRNN，BERT等分类模型实现，开箱即用。@shibing624/pytextclassifier](https://github.com/shibing624/pytextclassifier)
 - [[FastText]@facebookresearch/fastText](https://github.com/facebookresearch/fastText.git)
 
 
-### 2.4 信息抽取-Information Extraction
+### 2.5 信息抽取-Information Extraction
 - [UIE-torch@HUSTAI/uie_pytorch](https://github.com/HUSTAI/uie_pytorch)
 
-### 2.5 文本摘要-Text Summary
+### 2.6 文本摘要-Text Summary
 - [【TextRank4ZH】中文文本摘要@letiantian/TextRank4ZH](https://github.com/letiantian/TextRank4ZH)
 
-### 2.6 对话系统
+### 2.7 对话系统
 - [【对话系统】-基于大模型的多轮对话、填槽、反问@answerlink/IntelliQ](https://github.com/answerlink/IntelliQ)
 - [【对话系统】-基于Bert的意图-槽位识别@Linear95/bert-intent-slot-detector](https://github.com/Linear95/bert-intent-slot-detector)
 - [【对话系统】-业界一些对话系统资料(2022)](https://github.com/lizhe2004/chatbot-list)
