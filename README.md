@@ -29,7 +29,7 @@
 - [【模型】-OpenLLaMA中文-@FittenTech/OpenLLaMA-Chinese](https://github.com/FittenTech/OpenLLaMA-Chinese)
 - [【模型】-ChatGLM3-@THUDM/ChatGLM3](https://github.com/THUDM/ChatGLM3)
 - [【模型】-【Llama-Chinese】中文LLAMA@Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese)
-- [【训练】-【unsloth】-微调LLaMA3速度快](https://github.com/unslothai/unsloth)
+- [【训练】-【unsloth】-微调LLaMA3速度快@unslothai/unsloth](https://github.com/unslothai/unsloth)
 - [【训练】-【LLaMA-Factory】-微调训练框架@hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
 - [【训练】-【Firefly】-流萤LLMs训练代码@yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly)
 - [【训练】-【swift】-qwen官方训练框架@modelscope/swift](https://github.com/modelscope/swift)
