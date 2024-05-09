@@ -19,6 +19,7 @@
 
 ### 2.2 LLMs系列
 - [【数据】-医疗训练数据@onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM)
+- [【教程】-【动手学大模型】教程-@Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
 - [【模型】-【Grok-1】314B模型@xai-org/grok-1](https://github.com/xai-org/grok-1)
 - [【模型】-国产大模型列表@wgwang/awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China)
 - [【模型】-Yi-6B/34B 可以到200k @01-ai/Yi](https://github.com/01-ai/Yi)
