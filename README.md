@@ -66,7 +66,8 @@
 
 ### 2.3 向量模型-Embedding
 - [【工具】-【open-text-embeddings】-仿openai API格式的embeddingAPI@limcheekin/open-text-embeddings](https://github.com/limcheekin/open-text-embeddings)
-
+- [【工具】-【FlagEmbedding】-BGE系列模型推理框架](https://github.com/FlagOpen/FlagEmbedding)
+- 
 ### 2.4 文本分类-Text Classification
 - [文本分类工具，LR，Xgboost，TextCNN，FastText，TextRNN，BERT等分类模型实现，开箱即用。@shibing624/pytextclassifier](https://github.com/shibing624/pytextclassifier)
 - [[FastText]@facebookresearch/fastText](https://github.com/facebookresearch/fastText.git)
