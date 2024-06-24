@@ -52,6 +52,7 @@
 - [【Prompt】-【GPTs】- 提示词模板@linexjlin/GPTs](https://github.com/linexjlin/GPTs)
 - [【RAG】-【Langchain-Chatchat】@chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
 - [【RAG】-【组件索引列表】@frutik/Awesome-RAG](https://github.com/frutik/Awesome-RAG)
+- [【RAG】-【知识图谱RAG】@graph-rag](https://github.com/sarthakrastogi/graph-rag)
 - [【Agent】-【Graph_Toolformer】-图数据+LLM+API_call构造Agent@jwzhanggy/Graph_Toolformer](https://github.com/jwzhanggy/Graph_Toolformer)
 - [【Agent】-AutoGPT-实现GPT的自动化操作@Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [【Agent】-【XAgent】-面壁智能XAgent@OpenBMB/XAgent](https://github.com/OpenBMB/XAgent)
