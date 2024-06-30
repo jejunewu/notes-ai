@@ -15,6 +15,7 @@
 - [【面试】AIGC-interview@315386775/DeepLearing-Interview-Awesome-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024)
 - [【面试】那些你不知道的事@km1994/nlp_paper_study](https://github.com/km1994/nlp_paper_study)
 - [【面试】LLM面试含答案-问题基于km1994/NLP-Interview-Notes@jackaduma/awesome_LLMs_interview_notes](https://github.com/jackaduma/awesome_LLMs_interview_notes)
+- [【面试】-大模型面试@wdndev/llm_interview_note](https://github.com/wdndev/llm_interview_note)
 - [【竞赛】NLP任务竞赛汇总@TingFree/NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal)
 
 ### 2.2 LLMs系列
