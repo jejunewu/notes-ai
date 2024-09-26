@@ -68,6 +68,7 @@
 - [~~【工具】-[BingChat]-Bing Chat for All Browsers，可以让chrome等浏览器使用的BingChat的插件@anaclumos/bing-chat-for-all-browsers~~](https://github.com/anaclumos/bing-chat-for-all-browsers)
 
 ### 2.3 向量模型-Embedding
+- [【工具】-【sentence-transformers】- Embedding模型调用](https://github.com/UKPLab/sentence-transformers)
 - [【工具】-【open-text-embeddings】-仿openai API格式的embeddingAPI@limcheekin/open-text-embeddings](https://github.com/limcheekin/open-text-embeddings)
 - [【工具】-【FlagEmbedding】-BGE系列模型推理框架@FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)
 - 
