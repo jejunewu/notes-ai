@@ -23,6 +23,7 @@
 - [【教程】-【动手学大模型】教程-@Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
 - [【教程】-【LLM 101】](https://github.com/karpathy/LLM101n)
 - [【模型】-【Grok-1】314B模型@xai-org/grok-1](https://github.com/xai-org/grok-1)
+- [【模型】-【o1记录】@GAIR-NLP/O1-Journey](https://github.com/GAIR-NLP/O1-Journey)
 - [【模型】-国产大模型列表@wgwang/awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China)
 - [【模型】-Yi-6B/34B 可以到200k @01-ai/Yi](https://github.com/01-ai/Yi)
 - [【模型】-已发布的中文LLMs列表@HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
