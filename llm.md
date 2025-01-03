@@ -6,12 +6,11 @@
 - [ O1-Journey | 开源版o1探索记录 | @GAIR-NLP/O1-Journey](https://github.com/GAIR-NLP/O1-Journey)
 
 ## 训练
-- [LLaMA-Factory | 微调训练框架 | @hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
-- [Firefly | 流萤LLMs训练框架 | @yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly)
-- [unsloth | 微调LLaMA3速度快 | @unslothai/unsloth](https://github.com/unslothai/unsloth)
-- [ swift | qwen官方训练框架 | @modelscope/swift](https://github.com/modelscope/swift)
-- [ PEFT | PLMs参数精调方法 | @huggingface/peft](https://github.com/huggingface/peft)
-- [ChatGLM-Finetuning | ChatGLM多种方式微调（Freeze、lora、pt、全参等）| @liucongg/ChatGLM-Finetuning](https://github.com/liucongg/ChatGLM-Finetuning)
+- [LLaMA-Factory  |  微调训练框架  |  @hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+- [Firefly  |  流萤LLMs训练框架  |  @yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly)
+- [unsloth  |  微调LLaMA3速度快  |  @unslothai/unsloth](https://github.com/unslothai/unsloth)
+- [swift  |  qwen官方训练框架  |  @modelscope/swift](https://github.com/modelscope/swift)
+- [PEFT  |  PLMs参数精调方法  |  @huggingface/peft](https://github.com/huggingface/peft)
 
 ## RAG
 - [rag-cookbooks | RAG指南，RAG多方案及实现 | @athina-ai ](https://github.com/athina-ai/rag-cookbooks)
