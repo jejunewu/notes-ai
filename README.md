@@ -25,9 +25,6 @@
 - [【评测】-【opencompass】-大模型评测榜单](https://github.com/open-compass/opencompass)
 - [【Prompt】-【LangGPT】- 角色扮演提示词模板@EmbraceAGI/LangGPT](https://github.com/EmbraceAGI/LangGPT)
 - [【Prompt】-【GPTs】- 提示词模板@linexjlin/GPTs](https://github.com/linexjlin/GPTs)
-- [【RAG】-【Langchain-Chatchat】@chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
-- [【RAG】-【组件索引列表】@frutik/Awesome-RAG](https://github.com/frutik/Awesome-RAG)
-- [【RAG】-【知识图谱RAG】@graph-rag](https://github.com/sarthakrastogi/graph-rag)
 - [【Agent】-【Graph_Toolformer】-图数据+LLM+API_call构造Agent@jwzhanggy/Graph_Toolformer](https://github.com/jwzhanggy/Graph_Toolformer)
 - [【Agent】-AutoGPT-实现GPT的自动化操作@Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [【Agent】-【XAgent】-面壁智能XAgent@OpenBMB/XAgent](https://github.com/OpenBMB/XAgent)
@@ -39,7 +36,6 @@
 - [【工具】-【gpt4free】-免费的GPT-4逆向接口@xtekky/gpt4free](https://github.com/xtekky/gpt4free)
 - [【工具】-【openai格式API】- openai api@xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)
 - [【应用】-【GPT-Tools】-将多个GPT可以接入聊天软件等，py实现@zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything)
-- [~~【工具】-[BingChat]-Bing Chat for All Browsers，可以让chrome等浏览器使用的BingChat的插件@anaclumos/bing-chat-for-all-browsers~~](https://github.com/anaclumos/bing-chat-for-all-browsers)
 
 ### 2.3 向量模型-Embedding
 - [【工具】-【sentence-transformers】- Embedding模型调用](https://github.com/UKPLab/sentence-transformers)
