@@ -26,8 +26,8 @@
 - [flash-attention | 推理加速 | @Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention)
 
 ## 数据
-- [【数据】-医疗训练数据@onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM)
+- [医疗训练数据@onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM)
 
 ## 其他
-- [【教程】-【动手学大模型】教程-@Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
-- [【教程】-【LLM 101】](https://github.com/karpathy/LLM101n)
+- [教程 | dive-into-llms | 动手学大模型教程 | @Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
+- [教程 | LLM 101 | @karpathy/LLM101n](https://github.com/karpathy/LLM101n)
