@@ -6,11 +6,11 @@
 - [ O1-Journey | 开源版o1探索记录 | @GAIR-NLP/O1-Journey](https://github.com/GAIR-NLP/O1-Journey)
 
 ## 训练
-- [LLaMA-Factory  |  微调训练框架  |  @hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
-- [Firefly  |  流萤LLMs训练框架  |  @yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly)
-- [unsloth  |  微调LLaMA3速度快  |  @unslothai/unsloth](https://github.com/unslothai/unsloth)
-- [swift  |  qwen官方训练框架  |  @modelscope/swift](https://github.com/modelscope/swift)
-- [PEFT  |  PLMs参数精调方法  |  @huggingface/peft](https://github.com/huggingface/peft)
+- [LLaMA-Factory | 微调训练框架 | @hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+- [Firefly | 流萤LLMs训练框架 | @yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly)
+- [unsloth | 微调LLaMA3速度快 |  @unslothai/unsloth](https://github.com/unslothai/unsloth)
+- [swift | qwen官方训练框架 | @modelscope/swift](https://github.com/modelscope/swift)
+- [PEFT | PLMs参数精调方法 | @huggingface/peft](https://github.com/huggingface/peft)
 
 ## RAG
 - [rag-cookbooks | RAG指南，RAG多方案及实现 | @athina-ai ](https://github.com/athina-ai/rag-cookbooks)
@@ -19,10 +19,10 @@
 ## 推理
 - [vllm | vllm推理 | @vllm-project/vllm](https://github.com/vllm-project/vllm)
 - [lmdeploy | 比vLLM快 | @InternLM/lmdeploy](https://github.com/InternLM/lmdeploy)
-- [【推理】-【LLaMA.cpp】-LLaMA的C++推理代码@ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
-- [【推理】-【chatglm.cpp】@li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp)
-- [【推理】-【fastllm】-基于cpp的推理框架，可实现移动端@ztxz16/fastllm](https://github.com/ztxz16/fastllm)
-- [【推理】-【FastChat】-支持vllm加速、openaiapi和webui@lm-sys/FastChat](https://github.com/lm-sys/FastChat)
+- [LLaMA.cpp】-LLaMA的C++推理代码@ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
+- [chatglm.cpp】@li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp)
+- [fastllm】-基于cpp的推理框架，可实现移动端@ztxz16/fastllm](https://github.com/ztxz16/fastllm)
+- [FastChat】-支持vllm加速、openaiapi和webui@lm-sys/FastChat](https://github.com/lm-sys/FastChat)
 - [flash-attention | 推理加速 | @Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention)
 
 ## 数据
