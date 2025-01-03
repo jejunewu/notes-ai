@@ -19,10 +19,10 @@
 ## 推理
 - [vllm | vllm推理 | @vllm-project/vllm](https://github.com/vllm-project/vllm)
 - [lmdeploy | 比vLLM快 | @InternLM/lmdeploy](https://github.com/InternLM/lmdeploy)
-- [LLaMA.cpp】-LLaMA的C++推理代码@ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
-- [chatglm.cpp】@li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp)
-- [fastllm】-基于cpp的推理框架，可实现移动端@ztxz16/fastllm](https://github.com/ztxz16/fastllm)
-- [FastChat】-支持vllm加速、openaiapi和webui@lm-sys/FastChat](https://github.com/lm-sys/FastChat)
+- [LLaMA.cpp | LLaMA的C++推理代码 @ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
+- [chatglm.cpp | @li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp)
+- [fastllm | 基于cpp的推理框架，可实现移动端 @ztxz16/fastllm](https://github.com/ztxz16/fastllm)
+- [FastChat | 支持vllm加速、openaiapi和webui @lm-sys/FastChat](https://github.com/lm-sys/FastChat)
 - [flash-attention | 推理加速 | @Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention)
 
 ## 数据
