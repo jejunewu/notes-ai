@@ -26,4 +26,4 @@
 - [[HuBert]-预训练模型-音频特征提取器@facebookresearch/av_hubert](https://github.com/facebookresearch/av_hubert)
 
 ### 语音机器人
-[xxx](https://github.com/wwbin2017/bailing)
+[bailing | 百聆 是一个开源的语音对话助手，旨在通过语音与用户进行自然的对话 | @wwbin2017/bailing](https://github.com/wwbin2017/bailing)
