@@ -17,6 +17,7 @@
 - [Langchain-Chatchat】@chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
 - [Awesome-RAG | 组件索引列表 | @frutik/Awesome-RAG](https://github.com/frutik/Awesome-RAG)
 ### 图谱RAG
+- [KAG | 蚂蚁 事实问答类任务+逻辑推理类任务图谱RAG | @OpenSPG/KAG](https://github.com/OpenSPG/KAG)
 - [graph-rag | 知识图谱RAG | @graph-rag](https://github.com/sarthakrastogi/graph-rag)
 - [LightRAG | 简单快速图谱数据检索生成 | @HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
   
