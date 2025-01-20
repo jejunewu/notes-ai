@@ -24,3 +24,6 @@
 - [[demucs]-伴奏、乐器、人声分离@facebookresearch/demucs](https://github.com/facebookresearch/demucs)
 - [[uv]-伴奏与人声分离工具GUI版@Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)
 - [[HuBert]-预训练模型-音频特征提取器@facebookresearch/av_hubert](https://github.com/facebookresearch/av_hubert)
+
+### 语音机器人
+[xxx](https://github.com/wwbin2017/bailing)
