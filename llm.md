@@ -2,6 +2,7 @@
 ---
 
 ## 模型
+- [Open R1 | DeepSeek-R1开源复现版 | @huggingface/open-r1](https://github.com/huggingface/open-r1)
 - [Awesome-Chinese-LLM | 已发布的中文LLMs列表 | @HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 - [ O1-Journey | 开源版o1探索记录 | @GAIR-NLP/O1-Journey](https://github.com/GAIR-NLP/O1-Journey)
 
