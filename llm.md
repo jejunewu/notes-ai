@@ -23,6 +23,7 @@
 - [LightRAG | 简单快速图谱数据检索生成 | @HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
   
 ## Agent
+-[ OpenManus |开源版Manus MetaGPT团队出品 @mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus)
 
 ## 推理
 - [vllm | vllm推理 | @vllm-project/vllm](https://github.com/vllm-project/vllm)
