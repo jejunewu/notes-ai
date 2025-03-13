@@ -15,7 +15,7 @@
 
 ## RAG
 - [rag-cookbooks | RAG指南，RAG多方案及实现 | @athina-ai ](https://github.com/athina-ai/rag-cookbooks)
-- [Langchain-Chatchat】@chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
+- [Langchain-Chatchat @chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
 - [Awesome-RAG | 组件索引列表 | @frutik/Awesome-RAG](https://github.com/frutik/Awesome-RAG)
 ### 图谱RAG
 - [KAG | 蚂蚁 事实问答类任务+逻辑推理类任务图谱RAG | @OpenSPG/KAG](https://github.com/OpenSPG/KAG)
