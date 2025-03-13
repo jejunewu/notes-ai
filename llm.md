@@ -24,7 +24,7 @@
   
 ## Agent
 - [OpenManus |开源版Manus MetaGPT团队出品 @mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus)
-- [OpenManus-RL | RL训练框架/数据 OpenManus@OpenManus-RL](https://github.com/OpenManus/OpenManus-RL)
+- [OpenManus-RL | RL训练框架/数据 @OpenManus/OpenManus-RL](https://github.com/OpenManus/OpenManus-RL)
 
 ## 推理
 - [vllm | vllm推理 | @vllm-project/vllm](https://github.com/vllm-project/vllm)
