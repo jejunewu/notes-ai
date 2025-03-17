@@ -7,6 +7,7 @@
 - [ O1-Journey | 开源版o1探索记录 | @GAIR-NLP/O1-Journey](https://github.com/GAIR-NLP/O1-Journey)
 
 ## 训练
+- [Verl | 火山RL微调框架 | @volcengine/verl](https://github.com/volcengine/verl)
 - [LLaMA-Factory | 微调训练框架 | @hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
 - [Firefly | 流萤LLMs训练框架 | @yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly)
 - [unsloth | 微调LLaMA3速度快 |  @unslothai/unsloth](https://github.com/unslothai/unsloth)
@@ -23,8 +24,8 @@
 - [LightRAG | 简单快速图谱数据检索生成 | @HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
   
 ## Agent
-- [OpenManus |开源版Manus MetaGPT团队出品 @mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus)
-- [OpenManus-RL | RL训练框架/数据 @OpenManus/OpenManus-RL](https://github.com/OpenManus/OpenManus-RL)
+- [OpenManus |开源版Manus MetaGPT团队出品 | @mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus)
+- [OpenManus-RL | RL训练框架/数据 | @OpenManus/OpenManus-RL](https://github.com/OpenManus/OpenManus-RL)
 
 ## 推理
 - [vllm | vllm推理 | @vllm-project/vllm](https://github.com/vllm-project/vllm)
