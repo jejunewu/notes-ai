@@ -1,5 +1,7 @@
 # LLM
 ---
+## 综合
+- [LLM Engineer Toolkit | LLM工程师工具箱 | @KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)
 
 ## 模型
 - [Open R1 | DeepSeek-R1开源复现版 | @huggingface/open-r1](https://github.com/huggingface/open-r1)
