@@ -27,6 +27,7 @@
 - [LightRAG | 简单快速图谱数据检索生成 | @HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
   
 ## Agent
+- [langmanus | langgraph 实现manus @Darwin-lfl](https://github.com/Darwin-lfl/langmanus)
 - [开源deep-research | 开源deep-research | @dzhng/deep-research](https://github.com/dzhng/deep-research)
 - [OpenManus |开源版Manus MetaGPT团队出品 | @mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus)
 - [OpenManus-RL | RL训练框架/数据 | @OpenManus/OpenManus-RL](https://github.com/OpenManus/OpenManus-RL)
