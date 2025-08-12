@@ -7,6 +7,7 @@
 - [[WeNet]-端到端ASR@wenet-e2e/wenet](https://github.com/wenet-e2e/wenet)
 
 ### TTS
+- [FlashCosyVoice | CosyVoice推理加速优化-RTF可达0.055 | @xingchensong/FlashCosyVoice](https://github.com/xingchensong/FlashCosyVoice)
 - [index-TTS | B站开源TTS模型 | @index-tts/index-tts](https://github.com/index-tts/index-tts)
 - [GPT-SoVITS | GSV TTS | @RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 - [一个TTS工具整合框架@coqui-ai/TTS](https://github.com/coqui-ai/TTS)
@@ -29,3 +30,4 @@
 
 ### 语音机器人
 - [bailing | 百聆 是一个开源的语音对话助手，旨在通过语音与用户进行自然的对话 | @wwbin2017/bailing](https://github.com/wwbin2017/bailing)
+
