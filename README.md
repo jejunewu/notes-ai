@@ -16,6 +16,12 @@
 ## [NLP](nlp.md)
 
 ## [Audio](audio.md)
+- ASR
+- TTS
+- VC
+- VAD
+- 音频分离
+- 语音机器人
 
 ## [Tools](tools.md)
 - 数据处理
