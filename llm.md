@@ -21,6 +21,7 @@
 - [rag-cookbooks | RAG指南，RAG多方案及实现 | @athina-ai ](https://github.com/athina-ai/rag-cookbooks)
 - [Langchain-Chatchat @chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
 - [Awesome-RAG | 组件索引列表 | @frutik/Awesome-RAG](https://github.com/frutik/Awesome-RAG)
+  
 ### 图谱RAG
 - [graphiti | 动态时间感知 & 知识图谱记忆管理 | @getzep/graphiti](https://github.com/getzep/graphiti)
 - [KAG | 蚂蚁 事实问答类任务+逻辑推理类任务图谱RAG | @OpenSPG/KAG](https://github.com/OpenSPG/KAG)
@@ -46,5 +47,6 @@
 - [医疗训练数据@onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM)
 
 ## 其他
+- [system_prompts_leaks | 各种公开部署的聊天机器人的系统提示词 | @asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 - [教程 | dive-into-llms | 动手学大模型教程 | @Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
 - [教程 | LLM 101 | @karpathy/LLM101n](https://github.com/karpathy/LLM101n)
