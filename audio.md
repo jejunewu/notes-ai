@@ -18,6 +18,7 @@
 ### VC
 - [[so-vits-svc]-声音克隆变声器，可实现声音克隆@svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
 - [[RVC]-一个基于VITS的简单易用的语音转换（变声器）框架@RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+- [Atotti/miipher-2 | 基于HuBERT与Parallel Adapter的高质量语音增强开源降噪模型 | @Atotti/miipher-2](https://github.com/Atotti/miipher-2)
 
 ### VAD
 - [[pyannote]-声音活动检测(speaker diarization)@pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
@@ -30,5 +31,6 @@
 
 ### 语音机器人
 - [bailing | 百聆 是一个开源的语音对话助手，旨在通过语音与用户进行自然的对话 | @wwbin2017/bailing](https://github.com/wwbin2017/bailing)
+
 
 
