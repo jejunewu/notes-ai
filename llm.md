@@ -33,6 +33,8 @@
 - [开源deep-research | 开源deep-research | @dzhng/deep-research](https://github.com/dzhng/deep-research)
 - [OpenManus |开源版Manus MetaGPT团队出品 | @mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus)
 - [OpenManus-RL | RL训练框架/数据 | @OpenManus/OpenManus-RL](https://github.com/OpenManus/OpenManus-RL)
+- [Agent Tools | OpenAI格式工具自定义 | @justinlietz93/agent_tools](https://github.com/justinlietz93/agent_tools)
+
 
 ## 推理
 - [vllm | vllm推理 | @vllm-project/vllm](https://github.com/vllm-project/vllm)
